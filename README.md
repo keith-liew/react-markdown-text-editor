@@ -1,6 +1,6 @@
 # react-markdown-text-editor
 > A simple online markdown text editor builded with react 
-<!--  Live demo [_here_](https://keith-liew.github.io/meme-generator/).  -->
+> Live demo [_here_](https://keith-liew.github.io/react-markdown-text-editor). 
 
 
 ## Table of Contents
