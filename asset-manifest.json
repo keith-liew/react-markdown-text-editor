@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-markdown-text-editor/static/css/main.53a87656.css",
+    "main.js": "/react-markdown-text-editor/static/js/main.72f2ab02.js",
+    "index.html": "/react-markdown-text-editor/index.html",
+    "main.53a87656.css.map": "/react-markdown-text-editor/static/css/main.53a87656.css.map",
+    "main.72f2ab02.js.map": "/react-markdown-text-editor/static/js/main.72f2ab02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a87656.css",
+    "static/js/main.72f2ab02.js"
+  ]
+}
