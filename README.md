@@ -1,3 +1,103 @@
+# react-markdown-text-editor
+> A simple online markdown text editor builded with react 
+<!--  Live demo [_here_](https://keith-liew.github.io/meme-generator/).  -->
+
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Lesson Learned](#lesson-learned)
+* [Acknowledgements](#acknowledgements)
+
+
+## General Information
+- A simple react markdown text editor
+- User are create a markdown note and edit the content of it
+- The purpose of this project is to learn how to develop react web app in functional componenet
+- The topic of react components, modules, props, useState hooks are learned and implemented
+
+
+## Technologies Used
+- @testing-library/jest-dom: ^5.16.5,
+- @testing-library/react: ^13.4.0,
+- @testing-library/user-event: ^13.5.0,
+- react: ^18.2.0,
+- react-dom: ^18.2.0,
+- react-icons: ^4.6.0,
+- react-scripts: ^5.0.1,
+- react-split: ^2.0.14,
+- showdown: ^2.1.0,
+- web-vitals: ^2.1.4
+
+
+## Features
+- Create a markdown note
+- Edit the markdown note
+- Save it to localStorage of browser
+
+
+## Screenshots
+- Homepage
+
+![Homepage](/public/images/homepage.PNG)
+
+- Sidebar
+
+![sidebarOpen](/public/images/sidebarOpen.PNG)
+
+- Dark Mode
+
+![sidebarOpenDarkModeOn](/public/images/sidebarOpenDarkModeOn.PNG)
+
+- Preview Off
+
+![previewOff](/public/images/previewOff.PNG)
+
+
+- Add Note
+
+![sidebarOpenAddNote](/public/images/sidebarOpenAddNote.PNG)
+
+- Select Note
+
+![selectedNote](/public/images/selectedNote.PNG)
+
+- Edit Note
+
+![editedNote](/public/images/editedNote.PNG)
+
+
+## Setup
+- Project environment:
+    -npm installed
+
+
+## Usage
+- On project terminal
+    - install dependencies `npm install`
+    - start the app `npm start`
+
+
+## Project Status
+Project is: _complete_
+
+
+## Lesson Learned
+- Build a simple markdown text editor from ground up
+- Use react hooks(useEffect) to avoid memory leaking issue
+- React HTML components do not reconized unknown props
+
+## Acknowledgements
+- This project was inspired by Bob Ziroll.
+- This project was based on [this course](https://scrimba.com/learn/learnreact) on Scrimba and also available on [Youtube](https://www.youtube.com/watch?v=bMknfKXIFA8).
+
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
